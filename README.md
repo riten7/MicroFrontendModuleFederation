@@ -33,8 +33,6 @@ Clone the repository
 
 Install the dependencies and devDependencies, please follow the steps in order :
 
- and start the server. You can run each project independently, follow the steps below:
-
 #### Step 1 - Setup the host (main app)
 
 ```sh
@@ -49,6 +47,7 @@ cd apps/app1
 npm install
 npm run dev  [#it will open the app1 micro frontend app in the browser at http://localhost:3001/]
 ```
+
 
 #### Step 3 - Setup and run shared application
 

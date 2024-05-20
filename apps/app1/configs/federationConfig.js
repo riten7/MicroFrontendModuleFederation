@@ -5,8 +5,6 @@ module.exports = {
   filename: "remoteEntry.js",
   exposes: {
     "./App": "./src/App",
-    "./store": "./src/store",
-    "./layout-slice": "./src/reducer",
   },
   shared: {
     ...dependencies,

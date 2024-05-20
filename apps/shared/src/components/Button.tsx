@@ -11,7 +11,7 @@ const Button: React.FC = () => (
       backgroundColor: "#2165E3",
     }}
   >
-    {"Federated button"}
+    {"Button component from shared package"}
   </button>
 );
 
